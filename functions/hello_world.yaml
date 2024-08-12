@@ -6,7 +6,7 @@ trigger:
     type: https
     method: GET
     paths:
-        - /
+        - /ping
 domains:
     - GeneratedDomain
 execution:
