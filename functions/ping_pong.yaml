@@ -1,9 +1,9 @@
-id: Qmdnro8cyJDUMBjzP9An9N9HSbc2T4rq1pW9cp5KupJnwP
+id: QmchAKkBZ8PLQDNDou4PagN9e4pV54CxwWZwtWDyY1oEVE
 description: Returns pong to a ping over http
 tags: []
 source: .
 trigger:
-    type: http
+    type: https
     method: GET
     paths:
         - /ping
