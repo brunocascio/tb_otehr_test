@@ -5,7 +5,7 @@ domains:
     - GeneratedDomain
 source:
     paths:
-        - /web
+        - /
     branch: main
     github:
         id: 834252743
