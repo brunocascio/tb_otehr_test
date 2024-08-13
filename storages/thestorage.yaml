@@ -1,0 +1,10 @@
+id: QmPAM3JnEARyHdupFcEMYeK4qpJ2rDZS2wZuP2M6MpCG58
+description: ""
+tags: []
+match: thestorage
+useRegex: false
+access:
+    network: host
+object:
+    versioning: false
+    size: 1GB
